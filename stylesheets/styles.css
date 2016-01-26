@@ -229,8 +229,8 @@ section {
   padding-top:10px;
   padding-left:10px;
   padding-right:10px;
-  padding-bottom:50px;
-  border: 2px solid black;
+  padding-bottom:10px;
+  border: 2px solid #222;
 }
 
 small {
@@ -239,8 +239,8 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
-  height:1px;
+  height:2px;
+  color: #222;
   margin:0 0 20px;
 }
 
