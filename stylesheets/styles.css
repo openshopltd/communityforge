@@ -240,7 +240,7 @@ small {
 hr {
   border:0;
   height:2px;
-  color: #222;
+  background-color: #222;
   margin:0 0 20px;
 }
 
